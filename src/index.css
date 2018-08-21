@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", sans-serif, monospace;
+  background: #f08080;
+}
+
+button {
+  cursor: pointer;
+}
