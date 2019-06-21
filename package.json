@@ -10,7 +10,7 @@
     "react-particles-js": "^2.3.0",
     "react-scripts": "1.1.4",
     "react-tilt": "^0.1.4",
-    "eslint": ">=4.8.12"
+    "eslint": ">=4.8.12",
     "tachyons": "^4.11.1"
   },
   "scripts": {
